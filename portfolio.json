@@ -1,0 +1,8 @@
+{
+  "created": "2026-08-16",
+  "starting_cash": 1000.00,
+  "cash": 1000.00,
+  "positions": [],
+  "trade_history": [],
+  "note": "Simulated paper trading portfolio, written to by the cloud 'Hourly Paper Trading' routine. No real Robinhood orders are ever placed. Option chain/quote data is pulled live via the Robinhood MCP connector (read-only) for realistic pricing; all fills, P&L, and positions recorded here are hypothetical only. Candidate tickers come from the Robinhood 'Setups' watchlist (list_id 51e522d6-96e7-4161-8177-291a65a3c4f7), populated by the daily scan routine."
+}
